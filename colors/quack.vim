@@ -160,6 +160,7 @@ if &background == 'dark'
 	hi ToolbarButton guifg=#000000 guibg=#ffffff guisp=NONE gui=NONE ctermfg=16 ctermbg=231 cterm=NONE term=bold,reverse
 	hi ToolbarLine guifg=NONE guibg=NONE guisp=NONE gui=NONE ctermfg=NONE ctermbg=NONE cterm=NONE term=reverse
 	hi WinBar           guifg=#9b9ea4 guibg=#07080d gui=bold cterm=bold
+	hi Comment guifg=#9b9ea4
 	hi WinBarNC         guifg=#9b9ea4 guibg=#07080d
 	hi debugBreakpoint guifg=#5fafaf guibg=NONE guisp=NONE gui=reverse ctermfg=73 ctermbg=NONE cterm=reverse term=reverse
 	hi debugPC guifg=#5f87af guibg=NONE guisp=NONE gui=reverse ctermfg=67 ctermbg=NONE cterm=reverse term=reverse
