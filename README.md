@@ -6,7 +6,7 @@ its not a exact copy , but looks almost the same and it is made it based of the 
 
 ### Installation
 
-- using [vim-plug](github.com/junegunn/vim-plug)
+- using [vim-plug](https://github.com/junegunn/vim-plug)
 Add `Plug 'chrnz008/quack.vim'` to vimrc
 
 - manual installation
