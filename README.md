@@ -6,7 +6,13 @@ its not a exact copy , but looks almost the same and it is made it based of the 
 
 ### Installation
 
-Copy `colors/quack` to `~/.vim/colors/` then add the following to
+- using [vim-plug](github.com/junegunn/vim-plug)
+Add `Plug 'chrnz008/quack.vim'` to vimrc
+
+- manual installation
+Copy `colors/quack` to `~/.vim/colors/`
+
+then add the following to
 your `~/.vimrc` file:
 
 ```
