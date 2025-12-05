@@ -243,3 +243,9 @@ if &background == 'dark'
 
 	finish
 endif
+if &background == 'light'
+	colo default "fallback
+	hi SignColumn guibg=NONE
+	hi FoldColumn guibg=NONE
+	hi Cursor guibg=#cb4b16
+	endif
