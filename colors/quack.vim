@@ -2,7 +2,6 @@
 " Author:		charan
 " Mail:			charancuz008gmail.com
 
-set background=dark
 hi clear
 let g:colors_name = 'quack'
 
