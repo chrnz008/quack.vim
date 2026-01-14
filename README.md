@@ -15,7 +15,7 @@
 <!-- toc -->
 - [Theme example](#Theme-Example)
 - [Introduction](#introduction)
-- [Installation]()
+- [Installation](#installation)
 <!-- tocstop -->
 
 
@@ -47,3 +47,4 @@ cd quack.vim
 **Then add** the following to
 your `~/.vimrc` file:<br>
 `colorscheme quack`
+
