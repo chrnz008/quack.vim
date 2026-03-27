@@ -192,7 +192,7 @@ if &background == 'dark'
 	hi ErrorMsg gui=NONE term=NONE cterm=NONE guifg=#ffc0b9 guibg=NONE ctermfg=217 ctermbg=NONE
 	hi Folded gui=NONE term=NONE cterm=NONE guifg=#9b9ea4 guibg=#07080d ctermfg=247 ctermbg=232
 	hi Function gui=NONE term=NONE cterm=NONE guifg=#8cf8f7 guibg=NONE ctermfg=123 ctermbg=NONE
-	hi Identifier gui=NONE term=NONE cterm=NONE guifg=#a6dbff guibg=NONE ctermfg=153 ctermbg=NONE
+	hi Identifier gui=NONE term=NONE cterm=NONE guifg=#a6dbff guibg=NONE ctermfg=12 ctermbg=NONE
 	hi LineNr gui=NONE term=NONE cterm=NONE guifg=#4f5258 guibg=NONE ctermfg=239 ctermbg=NONE
 	hi MatchParen gui=bold term=underline,bold cterm=bold guifg=NONE guibg=#4f5258 ctermfg=NONE ctermbg=239
 	hi ModeMsg gui=NONE term=NONE cterm=NONE guifg=#b3f6c0 guibg=NONE ctermfg=157 ctermbg=NONE
@@ -247,4 +247,4 @@ if &background == 'light'
 	hi SignColumn guibg=NONE
 	hi FoldColumn guibg=NONE
 	hi Cursor guibg=#cb4b16
-	endif
+endif
