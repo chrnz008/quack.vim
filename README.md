@@ -11,6 +11,8 @@
   <img src="https://img.shields.io/github/last-commit/chrnz008/quack.vim" alt="Last Commit" />
 </p>
 
+- Made with [colortemplate](https://codeberg.org/lifepillar/vim-colortemplate)
+
 ## Contents
 <!-- toc -->
 - [Theme example](#Theme-Example)
@@ -27,8 +29,6 @@
 ## Introduction
 **The nvim's default dev_theme for vim**
 
-It is not a exact copy, *but looks almost the same* and it is made it __based of the builtin Lunarperche color scheme__
-
 ### Installation
 
 - Using [vim-plug](https://github.com/junegunn/vim-plug)<br>
@@ -38,7 +38,7 @@ It is not a exact copy, *but looks almost the same* and it is made it __based of
 
 ### Manual installation
 
-Write in your terminal:
+in your packpath
 ```bash
 git clone git@github.com:chrnz008/quack.vim.git
 cd quack.vim
