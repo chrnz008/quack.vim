@@ -1,3 +1,5 @@
+> [!Note]
+> this colorscheme is now maintained at [vim/colorschemes](https://github.com/vim/colorschemes) as `novum` since vim 9.2.858
 <h1 align="center">🎨 Quack.vim </h1>
 
 <p align="center">
